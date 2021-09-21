@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cuao5+G1SW/vcM+AieDq+EdP63TT2hNqVJDs6Wa36FWLRI9lOXF6lv9yfLxfwrzHh3rU1VmcSULeyG9UkSlwQw==",
+  "dgSpecHash": "yHsKP8+kXsMInlzhYNvSSordQShzGZlvi3U22DnsQPcfiQSvGJb5IWw0vIvvpeX1OwCKgKDch2zlK8bzZUN6LA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nuri\\source\\repos\\Blog\\Blog.Business\\Blog.Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Nuri\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
