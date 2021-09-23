@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GkyguyT96xx2gqHrePJtx8UiN6FyY09DiduIMVAtrr8kCgIfkvaMBgFBOPs9f5/pEiIfQfjkvHiJuguRdO2oIA==",
+  "dgSpecHash": "VZkrycouhBv7P188PTTVjeLorgkoKiX6ebgXncnPVI6B0zvzMNk7X7xI8QsHp1C0eDUfG8PHKNh06YapkIVqjA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nuri\\source\\repos\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Nuri\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\Nuri\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

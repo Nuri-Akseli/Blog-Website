@@ -8,5 +8,6 @@ namespace Blog.Business.Abstract
 {
     public interface IWriterService
     {
+        bool isEmailUnique(string email);
     }
 }

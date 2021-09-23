@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yHsKP8+kXsMInlzhYNvSSordQShzGZlvi3U22DnsQPcfiQSvGJb5IWw0vIvvpeX1OwCKgKDch2zlK8bzZUN6LA==",
+  "dgSpecHash": "Kt0O7ycbXIPqMuTFAEslHbv89Zd+wE3Dk2UyTpuvKCtrlalheh6dsz4hOMSTGpKLJ7qUZKd28cgtewjEH/5MKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nuri\\source\\repos\\Blog\\Blog.Business\\Blog.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nuri\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\Nuri\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\Nuri\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

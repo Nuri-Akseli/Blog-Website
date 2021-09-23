@@ -15,5 +15,12 @@ namespace Blog.Business.Concrete
         {
             _writerDal = writerDal;
         }
+
+        public bool isEmailUnique(string email)
+        {
+            return _writerDal.Get(writer => writer.WriterMail == email) == null
+                ? true
+                : false;
+        }
     }
 }
