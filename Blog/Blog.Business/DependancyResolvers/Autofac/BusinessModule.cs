@@ -20,7 +20,7 @@ namespace Blog.Business.DependancyResolvers.Autofac
             builder.RegisterType<ArticleManager>().As<IArticleService>().SingleInstance();
             builder.RegisterType<CategoryManager>().As<ICategoryService>().SingleInstance();
             builder.RegisterType<CommentManager>().As<ICommentService>().SingleInstance();
-            builder.RegisterType<ContactManager>().As<IContactDal>().SingleInstance();
+            builder.RegisterType<ContactManager>().As<IContactService>().SingleInstance();
             builder.RegisterType<WriterManager>().As<IWriterService>().SingleInstance();
 
             builder.RegisterType<EfAboutDal>().As<IAboutDal>();

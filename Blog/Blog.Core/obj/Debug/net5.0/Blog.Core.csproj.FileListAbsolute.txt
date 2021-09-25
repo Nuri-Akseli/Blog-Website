@@ -1,0 +1,12 @@
+C:\Users\Nuri\source\repos\Blog\Blog.Core\bin\Debug\net5.0\Blog.Core.deps.json
+C:\Users\Nuri\source\repos\Blog\Blog.Core\bin\Debug\net5.0\Blog.Core.dll
+C:\Users\Nuri\source\repos\Blog\Blog.Core\bin\Debug\net5.0\ref\Blog.Core.dll
+C:\Users\Nuri\source\repos\Blog\Blog.Core\bin\Debug\net5.0\Blog.Core.pdb
+C:\Users\Nuri\source\repos\Blog\Blog.Core\obj\Debug\net5.0\Blog.Core.csproj.AssemblyReference.cache
+C:\Users\Nuri\source\repos\Blog\Blog.Core\obj\Debug\net5.0\Blog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuri\source\repos\Blog\Blog.Core\obj\Debug\net5.0\Blog.Core.AssemblyInfoInputs.cache
+C:\Users\Nuri\source\repos\Blog\Blog.Core\obj\Debug\net5.0\Blog.Core.AssemblyInfo.cs
+C:\Users\Nuri\source\repos\Blog\Blog.Core\obj\Debug\net5.0\Blog.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nuri\source\repos\Blog\Blog.Core\obj\Debug\net5.0\Blog.Core.dll
+C:\Users\Nuri\source\repos\Blog\Blog.Core\obj\Debug\net5.0\ref\Blog.Core.dll
+C:\Users\Nuri\source\repos\Blog\Blog.Core\obj\Debug\net5.0\Blog.Core.pdb

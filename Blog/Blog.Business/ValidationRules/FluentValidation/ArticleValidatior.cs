@@ -15,7 +15,7 @@ namespace Blog.Business.ValidationRules.FluentValidation
             RuleFor(article => article.ArticleContent)
                 .NotEmpty().WithMessage("İçerik Boş Geçilemez")
                 .MaximumLength(1000).WithMessage("İçerik En Fazla 1000 Karakter Olabilir")
-                .MinimumLength(20).WithMessage("İçerik 20 Karakterden Fazla Olmalıdır");
+                .MinimumLength(100).WithMessage("İçerik 100 Karakterden Fazla Olmalıdır");
 
             RuleFor(article => article.ArticleTitle)
                 .NotEmpty().WithMessage("Başlık Boş Geçilemez")

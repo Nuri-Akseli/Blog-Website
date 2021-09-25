@@ -10,5 +10,6 @@ namespace Blog.DataAccess.Abstract
 {
     public interface IArticleDal:IEntityRepository<Article>
     {
+        List<Article> GetListWithCategory();
     }
 }
