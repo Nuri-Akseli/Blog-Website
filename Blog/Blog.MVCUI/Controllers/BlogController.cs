@@ -16,5 +16,11 @@ namespace Blog.MVCUI.Controllers
             var blogList = _articleService.GetAllArticle();
             return View(blogList);
         }
+
+        public IActionResult BlogReadAll(int id)
+        {
+            var article = _articleService.GetById(id);
+            return View(article);
+        }
     }
 }

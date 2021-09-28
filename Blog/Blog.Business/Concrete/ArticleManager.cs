@@ -24,7 +24,7 @@ namespace Blog.Business.Concrete
 
         public Article GetById(int id)
         {
-            return _articleDal.Get(article => article.ArticleId == id);
+            return _articleDal.GetArticleWithAllRelations(article=>article.ArticleId==id);
         }
     }
 }
